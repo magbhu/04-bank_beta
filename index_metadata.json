@@ -1,0 +1,42 @@
+{
+  "NIFTYBANK": {
+    "name": "NIFTY Bank Index",
+    "name_ta": "நிப்டி வங்கி குறியீடு",
+    "description": "Tracks the performance of the 12 most liquid and large-cap Indian banking stocks.",
+    "description_ta": "இந்தியாவின் மிக அதிக பரிவர்த்தனை செய்யப்படும் 12 பெரிய வங்கிகளின் செயல்திறனை கண்காணிக்கும் குறியீடு.",
+    "beta_5yr": 1.02,
+    "methodology": "Free-float market capitalization",
+    "methodology_ta": "சுதந்திர மிதவை சந்தை மூலதன முறை",
+    "source": "NSE India"
+  },
+  "NIFTY50": {
+    "name": "NIFTY 50 Index",
+    "name_ta": "நிப்டி 50 குறியீடு",
+    "description": "Represents the weighted average of 50 of the largest Indian companies listed on the NSE.",
+    "description_ta": "இந்தியாவின் மிகப்பெரிய 50 நிறுவனங்களின் எடைப்பட்ட சராசரியை பிரதிநிதித்துவப்படுத்தும் குறியீடு.",
+    "beta_5yr": 1.00,
+    "methodology": "Free-float market capitalization",
+    "methodology_ta": "சுதந்திர மிதவை சந்தை மூலதன முறை",
+    "source": "NSE India"
+  },
+  "S&P 500": {
+    "name": "S&P 500 Index",
+    "name_ta": "எஸ் & பி 500 குறியீடு",
+    "description": "Tracks the performance of 500 large-cap U.S. companies across major industries.",
+    "description_ta": "அமெரிக்காவின் முக்கிய துறைகளில் உள்ள 500 பெரிய நிறுவனங்களின் செயல்திறனை கண்காணிக்கும் குறியீடு.",
+    "beta_5yr": 1.00,
+    "methodology": "Free-float market capitalization",
+    "methodology_ta": "சுதந்திர மிதவை சந்தை மூலதன முறை",
+    "source": "S&P Dow Jones Indices"
+  },
+  "BKX": {
+    "name": "KBW Bank Index",
+    "name_ta": "கே.பி.டபிள்யூ.எக்ஸ் வங்கி குறியீடு",
+    "description": "Measures the performance of leading U.S. national money center banks and regional institutions.",
+    "description_ta": "அமெரிக்காவின் முன்னணி தேசிய மற்றும் பிராந்திய வங்கிகளின் செயல்திறனை அளக்கும் குறியீடு.",
+    "beta_5yr": 1.10,
+    "methodology": "Modified market capitalization weighting",
+    "methodology_ta": "மாற்றியமைக்கப்பட்ட சந்தை மூலதன எடுப்பாடு முறை",
+    "source": "NASDAQ"
+  }
+}
